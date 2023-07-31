@@ -30,7 +30,6 @@ I then used ChatGPT to provide me sample data to put on the homepage-
 - Button: "Explore Opportunities"
 - Illustration
   I used [[https://undraw.co][undraw.co]] to get an open source illustration for the website which has matching colours from the logo.
-  #+ATTR_HTML: :width 100px
   [[./assets/logo/hero-illustration.svg]]
 **** About Us
 At HireWise, we are passionate about connecting exceptional talent with innovative companies across the globe. Our mission is to revolutionize the recruitment process and bridge the gap between top-tier candidates and leading organizations. With our cutting-edge technology and dedicated team, we make hiring and job seeking seamless, efficient, and rewarding.

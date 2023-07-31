@@ -2,14 +2,17 @@
 Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
 
 # My Plan
-## Names
+<details>
+<summary>Names</summary>
 I generated a few names for the website using ChatGPT and decided to choose "HireWise".
 1.  HireWise (Final)
 2.  HireGuru
 3.  SkillGenie
 4.  TalentMagnet
+</details>
 
-## Logo
+<details>
+<summary>Logo</summary>
 I used Bing AI to generate a simple logo for the website and later recreated it in Inkscape.
 
 ### AI Generated Logo
@@ -18,7 +21,10 @@ I used Bing AI to generate a simple logo for the website and later recreated it 
 ### Final Logo (recreated in Inkscape)
 <img src="./assets/logo/logo.svg" width="100px">
 
-## Webpage Structure
+</details>
+<details>
+<summary>Webpage Structure</summary>
+
 I then used ChatGPT to provide me sample data to put on the homepage-
 
 ### Home
@@ -30,8 +36,9 @@ I then used ChatGPT to provide me sample data to put on the homepage-
     -   Heading: "Discover Your Path to Success"
     -   Subheading: "Unlock Your Potential With Our Premiere Recruitment Solutions"
     -   Button: "Explore Opportunities"
-    -   Illustration I used [undraw.co](https://undraw.co) to get an open source illustration for the website which has matching colours from the logo.
-        <img src="./assets/logo/hero-illustration.svg" width="100px">
+    -   Illustration I used [undraw.co](https://undraw.co) to get an open source illustration for the website which has matching colours from the logo.  
+    
+        <img src="./assets/logo/hero-illustration.svg" width="300px">
 
 3.  About Us
     At HireWise, we are passionate about connecting exceptional talent with innovative companies across the globe. Our mission is to revolutionize the recruitment process and bridge the gap between top-tier candidates and leading organizations. With our cutting-edge technology and dedicated team, we make hiring and job seeking seamless, efficient, and rewarding.
@@ -63,7 +70,7 @@ I then used ChatGPT to provide me sample data to put on the homepage-
     -   Copyright Info
     -   Quick links to social media profiles
     -   Links to privacy policy and terms of service
-
+</details>
 ## Technologies to use
 1.  ReactJS
 2.  CSS (or TailwindCSS)
