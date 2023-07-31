@@ -14,36 +14,40 @@ I generated a few names for the website using ChatGPT and decided to choose "Hir
 I used Bing AI to generate a simple logo for the website and later recreated it in Inkscape.
 *** AI Generated Logo
 [[./assets/ai-generated-logo.jpg]]
-*** Final Logo (recretead in Inkscape)
+*** Final Logo (recreated in Inkscape)
 [[./assets/logo.svg]]
 ** Webpage Structure
 I then used ChatGPT to provide me sample data to put on the homepage-
 *** Home
-+ Header
-  - Logo
-  - Navbar
-+ Hero section
-  - Heading: "Discover Your Path to Success"
-  - Subheading: "Unlock Your Potential With Our Premiere Recruitment Solutions"
-  - Button: "Explore Opportunities"
-+ About Us
-  - At HireWise, we are passionate about connecting exceptional talent with innovative companies across the globe. Our mission is to revolutionize the recruitment process and bridge the gap between top-tier candidates and leading organizations. With our cutting-edge technology and dedicated team, we make hiring and job seeking seamless, efficient, and rewarding.
-+ How It Works
-  - For Companies
-    1. Post a Job Opening
-    2. Get Intelligent Recommendations
-    3. Connect and Hire
-  - For Job Seekers
-    1. Create a Profile
-    2. Explore and Apply
-    3. Get Hired
-+ Featured Job Categories
-  - Software Engineer
-  - Product Manager
-  - Data Scientist
-  - And More!
-+ Testimonials
-  - "TalentConnect has been a game-changer for our hiring process. We found the perfect candidate within days!" - XYZ Tech Solutions
-  - "Thanks to TalentConnect, I landed my dream job at an amazing company. Highly recommended!" - John Doe, Software Engineer
-+ A "These companies trust us" section
-+ Footer
+**** Header
+- Logo
+- Navbar
+**** Hero section
+- Heading: "Discover Your Path to Success"
+- Subheading: "Unlock Your Potential With Our Premiere Recruitment Solutions"
+- Button: "Explore Opportunities"
+**** About Us
+At HireWise, we are passionate about connecting exceptional talent with innovative companies across the globe. Our mission is to revolutionize the recruitment process and bridge the gap between top-tier candidates and leading organizations. With our cutting-edge technology and dedicated team, we make hiring and job seeking seamless, efficient, and rewarding.
+**** How It Works
+- For Companies
+  1. Post a Job Opening
+  2. Get Intelligent Recommendations
+  3. Connect and Hire
+- For Job Seekers
+  1. Create a Profile
+  2. Explore and Apply
+  3. Get Hired
+**** Featured Job Categories
+- Software Engineer
+- Product Manager
+- Data Scientist
+- And More!
+**** Testimonials
+- "TalentConnect has been a game-changer for our hiring process. We found the perfect candidate within days!" - XYZ Tech Solutions
+- "Thanks to TalentConnect, I landed my dream job at an amazing company. Highly recommended!" - John Doe, Software Engineer
+**** A "These companies trust us" section
+- Logos of a few 10-20 companies sliding around or animated in some way.
+**** Footer
+- Copyright Info
+- Quick links to social media profiles
+- Links to privacy policy and terms of service
