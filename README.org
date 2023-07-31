@@ -1,6 +1,5 @@
 #+title: Plan
 #+description: Detailed plan for the project
-#+attr_html: :width 200px
 
 * Project Description
 Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
@@ -14,6 +13,7 @@ I generated a few names for the website using ChatGPT and decided to choose "Hir
 ** Logo
 I used Bing AI to generate a simple logo for the website and later recreated it in Inkscape.
 *** AI Generated Logo
+#+ATTR_HTML: :width 200px
 [[./assets/logo/ai-generated-logo.jpg]]
 *** Final Logo (recreated in Inkscape)
 [[./assets/logo/logo.svg]]
