@@ -2,17 +2,14 @@
 Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
 
 # My Plan
-<details>
-<summary>Names</summary>
+## Names
 I generated a few names for the website using ChatGPT and decided to choose "HireWise".
 1.  HireWise (Final)
 2.  HireGuru
 3.  SkillGenie
 4.  TalentMagnet
-</details>
 
-<details>
-<summary>Logo</summary>
+## Logo
 I used Bing AI to generate a simple logo for the website and later recreated it in Inkscape.
 
 ### AI Generated Logo
@@ -21,10 +18,7 @@ I used Bing AI to generate a simple logo for the website and later recreated it 
 ### Final Logo (recreated in Inkscape)
 <img src="./assets/logo/logo.svg" width="100px">
 
-</details>
-<details>
-<summary>Webpage Structure</summary>
-
+## Webpage Structure
 I then used ChatGPT to provide me sample data to put on the homepage-
 
 ### Home
@@ -70,7 +64,7 @@ I then used ChatGPT to provide me sample data to put on the homepage-
     -   Copyright Info
     -   Quick links to social media profiles
     -   Links to privacy policy and terms of service
-</details>
+
 ## Technologies to use
 1.  ReactJS
 2.  CSS (or TailwindCSS)
