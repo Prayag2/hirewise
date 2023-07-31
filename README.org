@@ -1,5 +1,6 @@
 #+title: Plan
 #+description: Detailed plan for the project
+#+attr_html: :width 200px
 
 * Project Description
 Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
@@ -69,10 +70,11 @@ These are the CSS variables that I will use-
 #+begin_src css
 --text: #050505;
 --background: #fafafa;
+--background-alt: #EDEDED;
 --primary: #1CCFBC;
---primary-light: #CDF2EE;
+--primary-alt: #CDF2EE;
 --accent: #5860a7;
---accent-light: #dedfed;
+--accent-alt: #dedfed;
 #+end_src
 *** Fonts
 I will use "DM Sans" for the headings and "Inter" for other text from Google Fonts.
