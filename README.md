@@ -89,5 +89,7 @@ Then, I selected colours matching the logo from [Realtime Colors](https://realti
 ### Fonts
 I will use "DM Sans" for the headings and "Inter" for other text from Google Fonts.
 
-### Design After choosing everything, I designed the prototype UI in Figma.
-Here's the link- [Figma File](https://www.figma.com/file/iTdLFPCDx1DGmjCpH3BTWu/Untitled?type=design&node-id=1%3A2&mode=design&t=AiSPUZsFcdoPqOzs-1)
+### Design
+After choosing everything, I designed the prototype UI in [Figma](https://www.figma.com/file/iTdLFPCDx1DGmjCpH3BTWu/Untitled?type=design&node-id=1%3A2&mode=design&t=AiSPUZsFcdoPqOzs-1).
+
+<img src="./assets/figma/design.svg" width="100%">
