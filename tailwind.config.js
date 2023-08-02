@@ -1,0 +1,1 @@
+./hirewise/tailwind.config.js
