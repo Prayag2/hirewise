@@ -19,7 +19,7 @@ function Accordian({question, answer}) {
         }
       </button>
       { showAnswer &&
-      <p className="mt-4 leading-relaxed text-xl text-left px-5">
+      <p className="animate-fade-in mt-4 leading-relaxed text-xl text-left px-5">
         {answer}
       </p>
       }

@@ -1,6 +1,22 @@
 # Project Description
 Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
 
+# Screenshots
+<img src="./assets/ss-1.png" width="500px">
+<img src="./assets/ss-2.png" width="500px">
+<img src="./assets/ss-3.png" width="500px">
+
+# Testing
+## Online
+The website is deployed at https://hirewise-three.vercel.app/
+
+## Offline
+Install Node.js and run the following commands-
+1. `git clone git@github.com:Prayag2/hirewise.git`
+2. `cd hirewise/hirewise`
+3. `npm i`
+4. `npm run dev`
+
 # My Plan
 ## Names
 I generated a few names for the website using ChatGPT and decided to choose "HireWise".
