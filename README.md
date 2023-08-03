@@ -1,5 +1,9 @@
 # Project Description
-Task: Task is to create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
+Task: Create a home page for a recruitment startup. This portal will be used by companies in India and worldwide for Hiring software engineers, Product Managers, Data Scientist etc. Please have a look at the 2-3 features from reference websites and develop it for the demo purpose. You have to make one page (home screen) for the frontend.
+
+# Details
+I've used ReactJS along with TailwindCSS to create this Project.
+I used Figma to create the UI and UX, and used Inkscape for other vector illustrations.
 
 # Screenshots
 <img src="./assets/ss-1.png" width="500px">
